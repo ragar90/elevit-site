@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-image:url(../img/pattern-body.png);
+	color:#FFF;
+	}
+
+
+
+/*STAR FOOTER*/
+
+
+a{
+	color:#34d47b;
+	}
+
+#footersec{
+	width:100%;
+	height:auto;
+	background-image:url(../img/footerpattern.png);
+	}
+
+
+footer{ 
+	background-image:url(../img/footgraphic.png);
+	background-position:bottom center;
+	background-repeat:no-repeat;
+	padding-top:70px;
+	clear:both;
+	margin:0 auto;
+	height:590px;
+	width:1000px;
+
+	}
+
+
+#footer_left{
+	float:right;
+	width:400px;
+	}
+
+
+#formcontainer{	
+	padding-top:30px;
+	padding-left:30px;
+	padding-bottom:30px;
+	border:solid 1px #34d47b;
+	width:400px;
+	height:385px;
+	}
+
+
+input[type="text"],
+input[type="email"]{
+	font-family:'Shanti', Arial, Helvetica !important; 
+	padding-left:20px;
+	font-size:14px !important;
+	font-weight:normal;
+	width:355px;
+	height:40px;
+	margin-bottom:10px;
+	background-color:#f0eef0;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	}
+
+
+
+
+textarea{
+	font-family:'Shanti', Arial, Helvetica !important; 
+	padding-left:20px;
+	padding-top:20px;
+	font-size:14px !important;
+	padding-left:20px;
+	width:355px;
+	height:100px;
+	max-width:355px;
+	max-height:100px;
+	background-color:#f0eef0;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	}
+
+
+input[type="submit"]#btn{
+	font-family:'Passion One', Arial, Helvetica;
+	font-family:16px;
+	margin-right:24px;
+	font-weight:normal;
+	background-color: #13ABD1;
+	color:#FFF;
+	float:right;
+	margin-top:20px;
+	margin-bottom:20px;
+	background-image:url(../img/sendbtn.png);
+	background-position:center center;
+	height:40px;
+	width:100px;
+	border:0;
+	}
+
+
+	
+#form-title{
+	font-family:'Passion One', Arial, Helvetica;
+	font-family:14px;
+	font-weight:normal;
+	color:#FFF;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	width:374px;
+	border-bottom:solid 1px #34d37a;
+	}
+
+
+
+
+#footer_right{
+	float:left;
+	width:400px;
+	}
+
+
+	#foot{
+	margin-top:20px;
+	font-family:'Passion One', Arial, Helvetica;
+	font-size:14px;
+	font-weight:normal;
+	color:#FFF;
+	}
+
+	#foot li{
+	width:300px;
+	font-family:'Passion One', Arial, Helvetica;
+	font-size:14px;
+	font-weight:normal;
+	color:#FFF;
+	margin-bottom:20px;	
+	padding-bottom:15px;
+	border-bottom:solid 1px #34d47b;
+	}
+	
+	#foot li span{
+	font-family:'Shanti', Arial, Helvetica;
+	font-size:14px;
+	font-weight:normal;
+	color:#34d47b;
+	}
+	
+	#footp{
+		margin-top:15px;
+		font-family:'Shanti', Arial, Helvetica;
+		font-size:14px;
+		font-weight:normal;
+		color:#34d47b;		
+		}
+
+
+#topbar{
+	height:5px;
+	position:absolute;
+	top:0;
+	width:100%;
+	background-color:#34d47b;
+	}
+
+
+/*END FOOTER*/
+
+
+
+
+
